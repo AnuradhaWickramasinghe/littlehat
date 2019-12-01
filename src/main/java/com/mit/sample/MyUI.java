@@ -43,7 +43,7 @@ public class MyUI extends UI {
         VerticalLayout logos = new VerticalLayout(logoLable);
         logos.setWidth("100%");
         logos.setHeight("10px");
-        TextField filter = new TextField("search from hostname");
+        TextField filter = new TextField("search from HostName");
         VerticalLayout actions = new VerticalLayout();
 
         GridLayout action = new GridLayout(2, 1);
