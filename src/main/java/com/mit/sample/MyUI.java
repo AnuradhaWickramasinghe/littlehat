@@ -36,7 +36,7 @@ public class MyUI extends UI {
     protected void init(VaadinRequest vaadinRequest) {
 
         Label logoLable = new Label();
-        logoLable.setIcon(new ThemeResource("loginui-head.png"));
+        logoLable.setIcon(new ThemeResource("Pyxle.logo_small.png"));
 
         logoLable.setWidth("20%");
         logoLable.setWidth("10px");

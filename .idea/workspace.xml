@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.39310345" />
@@ -57,6 +57,7 @@
       <recent name="com.mit.sample" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MY_REPO\littlehat\src\main\webapp\VAADIN\themes\mytheme" />
       <recent name="D:\RestApp\littlehat\src\main\webapp\VAADIN\themes\mytheme" />
       <recent name="D:\RestApp\littlehat\src\main\java\com\mit\sample" />
     </key>
