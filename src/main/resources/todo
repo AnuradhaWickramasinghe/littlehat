@@ -1,0 +1,5 @@
+.v-grid .v-grid-header th.v-grid-cell {
+  background: #f0f0f0;
+  color: #222;
+  font-weight: bold;
+}
