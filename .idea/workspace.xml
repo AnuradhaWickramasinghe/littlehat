@@ -76,7 +76,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="littlehat [clean,package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration name="webapp [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -87,8 +87,7 @@
             </option>
             <option name="goals">
               <list>
-                <option value="clean" />
-                <option value="package" />
+                <option value="jetty:run" />
               </list>
             </option>
             <option name="pomFileName" />
@@ -181,27 +180,27 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="269" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575205366148">
+    <state x="269" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575220770197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="269" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575205366148" />
+    <state x="269" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575220770197" />
     <state x="1426" y="-888" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1132.-1050.1680.1010@1132.-1050.1680.1010" timestamp="1575009805016" />
-    <state width="1493" height="269" key="GridCell.Tab.0.bottom" timestamp="1575208060898">
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom" timestamp="1575221620742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575208060898" />
-    <state width="1493" height="269" key="GridCell.Tab.0.center" timestamp="1575208060898">
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575221620742" />
+    <state width="1493" height="269" key="GridCell.Tab.0.center" timestamp="1575221620742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575208060898" />
-    <state width="1493" height="269" key="GridCell.Tab.0.left" timestamp="1575208060898">
+    <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575221620742" />
+    <state width="1493" height="269" key="GridCell.Tab.0.left" timestamp="1575221620741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575208060898" />
-    <state width="1493" height="269" key="GridCell.Tab.0.right" timestamp="1575208060898">
+    <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575221620741" />
+    <state width="1493" height="269" key="GridCell.Tab.0.right" timestamp="1575221620742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575208060898" />
+    <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.824/1132.-1050.1680.1010@0.0.1536.824" timestamp="1575221620742" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
