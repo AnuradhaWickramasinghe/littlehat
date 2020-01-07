@@ -84,7 +84,7 @@ public class SQLQueries {
             e.printStackTrace();
         }
 
-        String sql = "select * from PT_SRV_USAGE WHERE SRV_HOSTNAME like '%"+ SRV_HOSTNAME +"%'";
+        String sql = "select * from PT_SRV_USAGE WHERE SRV_HOSTNAME like '%"+ SR_HOSTNAME +"%'";
 
         System.out.println(sql);
         try {
